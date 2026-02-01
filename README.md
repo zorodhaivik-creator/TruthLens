@@ -57,26 +57,3 @@ TruthLens is designed for creators who would rather hear the hard truth now than
 > - The agent prompt / system design  
 > - Example interactions  
 > - (Optional) Code / scripts used to run or integrate TruthLens  
-
----
-
-## 📌 Roadmap (optional)
-
-- [ ] Add example video analyses  
-- [ ] Provide prompt templates for different content types (vlogs, tutorials, shorts, etc.)  
-- [ ] Integrate with video platforms or APIs  
-- [ ] Add a simple web UI for uploads and feedback display  
-
----
-
-## 🤝 Contributing
-
-Feedback, ideas, and pull requests are welcome.  
-If you’ve got suggestions on how TruthLens can be more direct, more helpful, or more creator-friendly, feel free to open an issue.
-
----
-
-## 📬 Contact
-
-- Creator: _[Your Name or Handle]_  
-- GitHub: [@your-username](https://github.com/your-username)
